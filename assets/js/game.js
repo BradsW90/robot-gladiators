@@ -91,6 +91,7 @@ var fight = function (enemy) {
 
 // function to start a new game
 var startGame = function () {
+  console.log("Start Game function pass");
   // reset player stats
   playerInfo.reset();
 
